@@ -1,0 +1,5 @@
+# ~/.streamlit/config.toml (or %USERPROFILE%/.streamlit/config.toml on Windows)
+[server]
+watchFileSystem = false
+[server]
+watchFileSystem = false
