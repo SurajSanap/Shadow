@@ -5,11 +5,17 @@ from rules.response_engine import apply_agent_rules
 from utils.access_control import is_authorized, deny_response
 from utils.prompt_utils import format_prompt
 
+
 st.set_page_config(page_title="Project SHADOW", layout="centered")
-st.title("🕵️ Project SHADOW - Classified Query Assistant")
+st.title("Project SHADOW - Classified Query Assistant")
+
+# --- Sidebar ---
+st.sidebar.title("Agent Controls")
+agent_label = st.sidebar.selectbox("Select Agent Level:", ["Level 1", "Level 2", "Level 3", "Level 4", "Level 5"])
+st.sidebar.markdown("---")
+st.sidebar.info("Ensure proper clearance before submission.")
 
 # --- UI ---
-agent_label = st.selectbox("Select Agent Level:", ["Level 1", "Level 2", "Level 3", "Level 4", "Level 5"])
 query = st.text_area("Enter your classified query:")
 
 # --- Main Logic ---
