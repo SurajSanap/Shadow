@@ -8,7 +8,10 @@
 Built for high-stakes environments where information access must be precise, permissioned, and explainable.
 
 ---
-![FlwoChart](https://github.com/user-attachments/assets/48a77ddb-2eda-4672-9190-236dc8c55256)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48a77ddb-2eda-4672-9190-236dc8c55256" alt="Logo College" width="200">
+</p>
 
 ##  Project Overview
 
