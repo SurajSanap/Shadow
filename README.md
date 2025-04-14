@@ -5,6 +5,7 @@
 Built for high-stakes environments where information access must be precise, permissioned, and explainable.
 
 ---
+![FlwoChart](https://github.com/user-attachments/assets/48a77ddb-2eda-4672-9190-236dc8c55256)
 
 ## 🚀 Project Overview
 
@@ -15,6 +16,7 @@ ShadowCircuit simulates a real-world classified intelligence assistant, designed
 ---
 
 ![image](https://github.com/user-attachments/assets/4ebada81-313a-4f8d-85ec-2a47a46f4b3f)
+
 
 
 ## 🧱 Key Features
