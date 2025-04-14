@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb3b7cf9-52ea-4359-be0f-b70632ac6125" alt="Logo College" width="150">
+</p>
 
-# 🕵️‍♂️ Shadow Project
+# Shadow Project
 
 **A classified, agent-aware RAG system for secure intelligence retrieval.**  
 Built for high-stakes environments where information access must be precise, permissioned, and explainable.
@@ -7,7 +10,7 @@ Built for high-stakes environments where information access must be precise, per
 ---
 ![FlwoChart](https://github.com/user-attachments/assets/48a77ddb-2eda-4672-9190-236dc8c55256)
 
-## 🚀 Project Overview
+##  Project Overview
 
 ShadowCircuit simulates a real-world classified intelligence assistant, designed to retrieve and justify sensitive information for agents operating at different clearance levels. Built on Retrieval-Augmented Generation (RAG), the system blends semantic search, rule-based logic, and dynamic prompt construction.
 
