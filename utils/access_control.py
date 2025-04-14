@@ -1,4 +1,4 @@
-# Restrict or allow access based on agent level and query type
+# Here Restrict or allow access based on agent level and query type
 RESTRICTED_LEVELS = {
     "Project Eclipse": 5,
     "Operation Void": 5,
