@@ -14,9 +14,8 @@ ShadowCircuit simulates a real-world classified intelligence assistant, designed
 
 ---
 
-![image](https://github.com/user-attachments/assets/fd439415-628b-4d14-bada-381b8367ac69)
+![image](https://github.com/user-attachments/assets/4ebada81-313a-4f8d-85ec-2a47a46f4b3f)
 
-![image](https://github.com/user-attachments/assets/0b4b3835-20f0-4bdc-8132-5eebea858f55)
 
 ## 🧱 Key Features
 
