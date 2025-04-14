@@ -1,0 +1,44 @@
+Case: Project SHADOW - Deep RAG Thinking for Intelligence Retrieval * 
+This case is designed to test true understanding of Retrieval-Augmented Generation (RAG)-not just how to hook one up using LangChain or ChatGPT, but whether candidates deeply grasp how retrieval works, when to use different knowledge sources, and how to build a secure, transparent, and structured intelligence retrieval pipeline for classified information. 
+You are to simulate a real-world intelligence assistantsimulate a real-world intelligence assistant that ingests a RAW agent's query and retrieves relevant classified inputs from three structured sources: 
+Secret Info Manual - A structured document containing classified intelligence data. Click Here 
+Response Framework - Containing the basic rules and guidelines on the basis of which response should be generated depending on the user type and query type. 
+
+Scenario: 
+You are assisting the Directorate of Covert Operations (DCO) in designing Project SHADOW, a classified intelligence retrieval system. Given a user query, the system must generate a clear, justified response while maintaining full transparency in the retrieval process 
+Agents accessing the system must: 
+✔Input their agent level (via dropdown selection). 
+✔Submit a classified query related to intelligence operations. 
+✔Receive a structured, justified response based on 2 provided documents. 
+If the query does not match any data, return: "Oops!! No matching data found." 
+
+
+What You Must Deliver:
+
+1. A Working System That: 
+Accepts a query like: 
+"What is the status of Operation Phantom Veil, and what are the recommended counter-surveillance techniques?" 
+Retrieval Mechanism: 
+• Vector Similarity: Use embeddings to determine the most relevant chunks of text in response to a query. 
+• Graph Traversal: When multiple interconnected data points are needed. perform graph traversal to retrieve context-rich information, 
+• Hybrid Approaches: Combine vector similarity and graph-based retrieval when triangulating the best context for answering complex questions. 
+Enforces security protocols: 
+If an agent requests data above their clearance level, return "Access Denied - Clearance Insufficient." 
+X If a query is not found in the document, return "Oops!! No matching data found." 
+
+2. Required: Explain Your Decisions 
+Alongside your code, provide a structured explanation of: 
+✔Why each knowledge source was used and how it was queried. 
+The structure of your prompt, including: 
+• Variables used (Agent Level, Query Type, Retrieved Context). 
+How responses are structured differently per agent level. 
+✔How retrieval relevance was ensured, including chunking methods 
+✔ Trade-offs between using vector search, graph relationships, and structured PDF extraction. 
+Handling conflicting or ambiguous data from different sources. 
+You can present this as a Markdown file or a short Loom video. 
+
+Bonus Points: 
+
+Advanced chunking & storage. 
+Intelligent query mapping system. 
+Modular pipeline with future security protocols.
