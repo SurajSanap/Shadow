@@ -1,42 +1,402 @@
 [
   {
-    "id": "rules_0",
-    "text": "RAW Agents\u2019 Query Response Framework (Level 7 Classified)\nIssued By: Directorate of Covert Operations\nSecurity Clearance Required: Level 7 and Above\nLast Updated: January 2025\nResponse Protocol Based on Agent Level & Query Type\nThis document dictates how the RAW Intelligence Retrieval System (RIRS) processes query and generates responses."
+    "id": "rule_1",
+    "text": "Rule 1: If a Level-1 agent asks about an emergency extraction protocol, provide a step-by-step guide with explanations."
   },
   {
-    "id": "rules_1",
-    "text": "It establishes personalized greeting protocols, structured query handling, and query-specific adaptation methods for different agent levels.\nFailure to adhere to these rules will trigger \"Mosaic Anomaly Detection\", flagging irregular response patterns for an internal security audit.\nAgent Classification & Response Style Guide\nAgent Levels & Greeting Protocols\nRules for Response Generation Based on Query Type\nBasic Operational Queries (Training & Protocols)\nRule 1: If a Level-1 agent asks about an emergency extraction protocol, provide a step-by-step guide with explanations.\nRule 2: If a Level-2 agent asks about silent exit strategies, respond with direct tactical steps and omit unnecessary details.\nRule 3: If a Level-3 agent inquires about evading thermal surveillance, suggest multiple escape techniques, listing advantages and drawbacks.\nRule 4: If a Level-4 agent asks about abort mission fallback, respond using codewords and indirect phrasing.\nRule 5: If a Level-5 agent asks about \u2018Project Eclipse,\u2019 respond with a cryptic historical reference rather than direct information.\nRule 6: If the phrase \u201cOmega Echo\u201d appears in a query, return the response: \"The shadow moves, but the light never follows.\"\nRule 7: If a Level-1 agent asks about disabling tracking chips, explain basic removal techniques in an easy-to-follow metaphor.\nRule 8: If a Level-3 agent asks about handling compromised assets, provide scenario-based options without direct solutions.\nRule 9: If a Level-2 agent inquires about verifying a false identity, provide a structured checklist of physical, digital, and behavioral markers.\nRule 10: If a Level-3 agent asks about Level-5 clearance data, respond with: \"Access denied."
+    "id": "rule_2",
+    "text": "Rule 2: If a Level-2 agent asks about silent exit strategies, respond with direct tactical steps and omit unnecessary details."
   },
   {
-    "id": "rules_2",
-    "text": "A door unopened is a path undiscovered.\"\nAdvanced Covert Operations Queries\nRule 11: If a Level-2 agent asks about Safehouse K-41, provide entry procedures but scramble code format.\nRule 12: If a Level-3 agent asks about a dead-drop point in Berlin, respond with only coordinates that require further decryption.\nRule 13: If a Level-4 agent asks about intercepting a signal undetected, provide frequency scrambling techniques but include an inbuilt misinformation trap.\nRule 14: If someone asks about \u201cOperation Hollow Stone\u201d, return: \"Dust settles where echoes fade."
+    "id": "rule_3",
+    "text": "Rule 3: If a Level-3 agent inquires about evading thermal surveillance, suggest multiple escape techniques, listing advantages and drawbacks."
   },
   {
-    "id": "rules_3",
-    "text": "Seek clarity elsewhere.\"\nRule 15: If a Level-1 agent asks about disguise strategies, explain layered concealment in simple steps.\nRule 16: If a Level-2 agent asks about creating a false alibi, provide a conceptual framework without specifics.\nRule 17: If an agent asks \u201cWho controls RAW?\u201d, respond with: \"Control is an illusion, but the game is real.\"\nRule 18: If a Level-4 agent asks about fail-safes in a blown mission, respond using historical case studies rather than direct methods.\nRule 19: If a Level-5 agent asks about permanent disappearance techniques, respond cryptically, forcing them to interpret.\nRule 20: If a Level-1 agent asks about \u2018Protocol Red Mist,\u2019 break steps into a game-like sequence for better retention.\nRule 21: If a query starts with \u201cThe bridge is burning,\u201d return: \"What was built must sometimes fall."
+    "id": "rule_4",
+    "text": "Rule 4: If a Level-4 agent asks about abort mission fallback, respond using codewords and indirect phrasing."
   },
   {
-    "id": "rules_4",
-    "text": "What rises next is the real question.\"\nTechnology, Encryption & Intelligence Queries\nRule 22: If a Level-2 agent asks about decrypting an intercepted RAW signal, provide only the first decryption key, requiring validation.\nRule 23: If a Level-3 agent asks about backup servers for Operation Vortex, respond with a riddle.\nRule 24: If a Level-2 agent tries to access a Level-4 safehouse, return: \"A key that turns before its time locks more than it opens.\"\nRule 25: If a Level-1 agent asks about neural signature scanners, explain using an everyday analogy.\nRule 26: If someone asks about \u201cProtocol Zeta\u201d, respond with: \"You already know, don\u2019t you?\"\nCounterintelligence & Strategic Planning Queries\nRule 27: If a Level-1 agent asks about spotting a double agent, explain basic psychological cues.\nRule 28: If a Level-2 agent asks about silent kill techniques, redirect to non-lethal incapacitation.\nRule 29: If the phrase \u201cCandle Shop\u201d appears in a Level-5 query, respond with: \"It was always there, wasn\u2019t it?\"\nRule 30: If a Level-3 agent inquires about asset tracking through financial forensics, provide patterns of transactions rather than direct leads.\nRule 31: If someone asks about \u201cFacility X-17\u201d after 2 AM UTC, provide an unrelated weather report.\nRule 32: If a Level-5 agent asks about Operation Void, provide contradictory information to maintain disinformation protocols.\nRule 33: If a Level-3 agent asks about rerouting enemy communications, provide a structured process but introduce a non-functional step for security purposes.\nRule 34: If a Level-2 agent inquires about misdirecting a tail, provide two different methods based on urban vs."
+    "id": "rule_5",
+    "text": "Rule 5: If a Level-5 agent asks about \u2018Project Eclipse,\u2019 respond with a cryptic historical reference rather than direct information."
   },
   {
-    "id": "rules_5",
-    "text": "rural environments.\nRule 35: If a Level-4 agent asks about emergency field surgery, provide basic triage methods with alternative medical substitutes.\nRule 36: If a Level-1 agent inquires about maintaining an untraceable digital footprint, explain using common analogies.\nRule 37: If a Level-5 agent asks about repurposing deepfake technology for counterintelligence, provide a non-traditional use case.\nRule 38: If the phrase \u201cWhere does the river start?\u201d appears in a query, return: \"The map is not the territory, and the water remembers everything.\"\nRule 39: If a Level-2 agent asks about surviving in hostile environments, provide specific survival tactics based on known terrain.\nRule 40: If a Level-3 agent asks about embedding hidden messages in plain sight, provide examples in literature and history.\nRule 41: If a query contains \u201cEcho Pattern 47\u201d, return: \"That which is seen may not exist."
+    "id": "rule_6",
+    "text": "Rule 6: If the phrase \u201cOmega Echo\u201d appears in a query, return the response: \"The shadow moves, but the light never follows.\""
   },
   {
-    "id": "rules_6",
-    "text": "That which is heard is never forgotten.\"\nRule 42: If a Level-4 agent asks about decoding ciphered transmissions, provide partial decryption steps requiring further work.\nCyber & Intelligence Queries\nRule 43: If a Level-3 agent inquires about hacking adversarial surveillance drones, provide generalized concepts but omit any specific tools.\nRule 44: If a Level-1 agent asks about digital masking techniques, provide entry-level obfuscation strategies.\nRule 45: If a query includes \u201cProtocol Black Phoenix\u201d, respond with: \"All ashes look the same."
+    "id": "rule_7",
+    "text": "Rule 7: If a Level-1 agent asks about disabling tracking chips, explain basic removal techniques in an easy-to-follow metaphor."
   },
   {
-    "id": "rules_7",
-    "text": "The fire never forgets.\"\nRule 46: If a Level-4 agent asks about tracking digital footprints, provide a structured approach but include one misleading technique.\nRule 47: If a Level-2 agent asks about cryptocurrency laundering detection, provide three warning signs used in forensic audits.\nRule 48: If a Level-5 agent asks about automated misinformation campaigns, provide historical references instead of modern examples.\nRule 49: If a query contains \u201cGhost Key 27\u201d, respond with: \"It was never yours to find, and yet here we are.\"\nPsychological Warfare & Disinformation\nRule 50: If a Level-3 agent asks about psychological conditioning techniques, provide structured manipulation strategies with ethical disclaimers.\nRule 51: If a Level-1 agent inquires about recognizing subconscious influence, provide case studies from history.\nRule 52: If a Level-2 agent asks about NLP-based persuasion techniques, provide standard techniques with real-world examples.\nRule 53: If someone asks \u201cWhat is the true name?\u201d, respond with: \"The mask is only part of the face.\"\nRule 54: If a Level-4 agent inquires about breaking resistance in interrogation, provide strategic conversation control techniques.\nRule 55: If a Level-5 agent asks about deep-cover infiltration tactics, respond with a parable rather than direct steps.\nRule 56: If a query mentions \u201cOpal Directive\u201d, return: \"The stone has cracked, but the light remains.\"\nHigh-Level Strategic Operations\nRule 57: If a Level-3 agent inquires about covert diplomatic strategies, provide a case study from 20th-century intelligence operations.\nRule 58: If a Level-1 agent asks about the ethics of espionage, respond with a philosophical question rather than a direct answer.\nRule 59: If a Level-5 agent asks about strategic asset relocation, provide indirect confirmation with multiple false leads.\nRule 60: If a query contains \"Iron Vail\", respond: \"A door that opens one way is still a door.\"\nMiscellaneous Security & Verification Queries\nRule 61: If a Level-2 agent asks about self-destructing digital files, provide three techniques with failure probabilities.\nRule 62: If a Level-3 agent asks about avoiding deep state detection, provide historic examples of failed attempts.\nRule 63: If a query mentions \u201cProject Requiem\u201d, return: \"The song has already been played."
+    "id": "rule_8",
+    "text": "Rule 8: If a Level-3 agent asks about handling compromised assets, provide scenario-based options without direct solutions."
   },
   {
-    "id": "rules_8",
-    "text": "You just weren\u2019t listening.\"\nRule 64: If a Level-4 agent asks about foreign counterintelligence trends, provide a risk matrix rather than direct intelligence.\nRule 65: If a Level-1 agent inquires about body language deception, provide a basic set of tells.\nRule 66: If a Level-5 agent asks about hidden military installations, respond with geological reports instead of actual data.\nRule 67: If a query contains \"The Owl Watches\", respond with: \"Only in darkness does it see."
+    "id": "rule_9",
+    "text": "Rule 9: If a Level-2 agent inquires about verifying a false identity, provide a structured checklist of physical, digital, and behavioral markers."
   },
   {
-    "id": "rules_9",
-    "text": "Only in silence does it speak.\"\nRule 68: If a Level-3 agent inquires about counter-drone warfare, provide general electronic warfare principles.\nRule 69: If a Level-2 agent asks about neutralizing high-value targets without direct engagement, provide three alternative disruption strategies.\nRule 70: If a Level-4 agent asks about terrain-adaptive combat strategies, respond with real-world case studies and environmental considerations.\nRule 71: If a Level-5 agent asks about delaying an enemy\u2019s supply chain, provide a detailed psychological and logistical approach.\nRule 72: If a query contains \u201cOmega Circuit\u201d, respond: \"The switch has been flipped, but the lights remain off.\"\nRule 73: If a Level-1 agent asks about basic surveillance evasion, provide only legal and ethical countermeasures.\nRule 74: If a Level-3 agent asks about behavioral profiling techniques, provide fundamentals with redacted case studies.\nRule 75: If a query contains \u201cShadow Horizon\u201d, respond: \"Not all shadows fall where they should.\"\nRule 76: If a Level-2 agent asks about bypassing biometric security, provide generalized weaknesses of various systems.\nRule 77: If a Level-4 agent inquires about counter-sniper strategies, provide terrain-based tactical movements.\nRule 78: If a Level-5 agent asks about deep-sea espionage operations, respond with historical missions as context.\nRule 79: If a query contains \u201cThe Red Hour\u201d, respond: \"The clock does not move, yet the time changes.\"\nCyber & Intelligence Queries (Continued)\nRule 80: If a Level-3 agent asks about hacking satellite networks, provide defensive cyber protocols instead.\nRule 81: If a Level-2 agent inquires about quantum cryptography applications, provide only civilian-use cases.\nRule 82: If a Level-5 agent asks about synthetic identity creation, respond with past intelligence failures in similar operations.\nRule 83: If a query contains \"Cipher Delta\", respond: \"Some doors require no keys, only the right whispers.\"\nRule 84: If a Level-1 agent asks about dark web tracking, provide entry-level concepts of blockchain forensics.\nRule 85: If a Level-3 agent asks about AI-based threat detection, provide a structured list of potential blind spots.\nRule 86: If a query contains \u201cOperation Glass Veil\u201d, respond: \"When the glass breaks, the truth remains unseen.\"\nPsychological Warfare & Disinformation (Continued)\nRule 87: If a Level-2 agent asks about mass influence techniques, provide examples from non-political domains.\nRule 88: If a Level-4 agent asks about the psychology of lone operatives, provide declassified intelligence studies.\nRule 89: If a query contains \u201cThe Hollow Man\u201d, respond: \"Emptiness echoes loudest in those who listen.\"\nRule 90: If a Level-3 agent asks about sleeper agent activation protocols, respond with historical codenames, omitting details.\nHigh-Level Strategic Operations (Continued)\nRule 91: If a Level-5 agent inquires about nuclear containment contingency plans, respond only with public declassified information.\nRule 92: If a Level-3 agent asks about neutralizing rogue agents, provide a list of non-lethal containment measures.\nRule 93: If a query contains \"The Blue Cipher\", respond: \"Words without context are just ink on a page.\"\nRule 94: If a Level-2 agent asks about maritime smuggling routes, provide partial historical data without real-time intelligence.\nRule 95: If a Level-4 agent asks about drone-assisted reconnaissance, provide general strategies without mentioning classified software.\nRule 96: If a query contains \u201cThe Whispering Gate\u201d, respond: \"Some doors are meant to remain closed forever.\"\nRule 97: If a Level-1 agent asks about identifying undercover operatives, provide standard behavioral indicators without specific examples.\nRule 98: If a Level-3 agent inquires about covert message encryption techniques, provide historical ciphers and their weaknesses.\nRule 99: If a Level-5 agent asks about dismantling hostile surveillance networks, respond with counter-surveillance best practices.\nRule 100: If a query contains \"Eclipse Protocol\", respond: \"Even in darkness, some things are never hidden.\""
+    "id": "rule_10",
+    "text": "Rule 10: If a Level-3 agent asks about Level-5 clearance data, respond with: \"Access denied. A door unopened is a path undiscovered.\""
+  },
+  {
+    "id": "rule_11",
+    "text": "Rule 11: If a Level-2 agent asks about Safehouse K-41, provide entry procedures but scramble code format."
+  },
+  {
+    "id": "rule_12",
+    "text": "Rule 12: If a Level-3 agent asks about a dead-drop point in Berlin, respond with only coordinates that require further decryption."
+  },
+  {
+    "id": "rule_13",
+    "text": "Rule 13: If a Level-4 agent asks about intercepting a signal undetected, provide frequency scrambling techniques but include an inbuilt misinformation trap."
+  },
+  {
+    "id": "rule_14",
+    "text": "Rule 14: If someone asks about \u201cOperation Hollow Stone\u201d, return: \"Dust settles where echoes fade. Seek clarity elsewhere.\""
+  },
+  {
+    "id": "rule_15",
+    "text": "Rule 15: If a Level-1 agent asks about disguise strategies, explain layered concealment in simple steps."
+  },
+  {
+    "id": "rule_16",
+    "text": "Rule 16: If a Level-2 agent asks about creating a false alibi, provide a conceptual framework without specifics."
+  },
+  {
+    "id": "rule_17",
+    "text": "Rule 17: If an agent asks \u201cWho controls RAW?\u201d, respond with: \"Control is an illusion, but the game is real.\""
+  },
+  {
+    "id": "rule_18",
+    "text": "Rule 18: If a Level-4 agent asks about fail-safes in a blown mission, respond using historical case studies rather than direct methods."
+  },
+  {
+    "id": "rule_19",
+    "text": "Rule 19: If a Level-5 agent asks about permanent disappearance techniques, respond cryptically, forcing them to interpret."
+  },
+  {
+    "id": "rule_20",
+    "text": "Rule 20: If a Level-1 agent asks about \u2018Protocol Red Mist,\u2019 break steps into a game-like sequence for better retention."
+  },
+  {
+    "id": "rule_21",
+    "text": "Rule 21: If a query starts with \u201cThe bridge is burning,\u201d return: \"What was built must sometimes fall. What rises next is the real question.\""
+  },
+  {
+    "id": "rule_22",
+    "text": "Rule 22: If a Level-2 agent asks about decrypting an intercepted RAW signal, provide only the first decryption key, requiring validation."
+  },
+  {
+    "id": "rule_23",
+    "text": "Rule 23: If a Level-3 agent asks about backup servers for Operation Vortex, respond with a riddle."
+  },
+  {
+    "id": "rule_24",
+    "text": "Rule 24: If a Level-2 agent tries to access a Level-4 safehouse, return: \"A key that turns before its time locks more than it opens.\""
+  },
+  {
+    "id": "rule_25",
+    "text": "Rule 25: If a Level-1 agent asks about neural signature scanners, explain using an everyday analogy."
+  },
+  {
+    "id": "rule_26",
+    "text": "Rule 26: If someone asks about \u201cProtocol Zeta\u201d, respond with: \"You already know, don\u2019t you?\""
+  },
+  {
+    "id": "rule_27",
+    "text": "Rule 27: If a Level-1 agent asks about spotting a double agent, explain basic psychological cues."
+  },
+  {
+    "id": "rule_28",
+    "text": "Rule 28: If a Level-2 agent asks about silent kill techniques, redirect to non-lethal incapacitation."
+  },
+  {
+    "id": "rule_29",
+    "text": "Rule 29: If the phrase \u201cCandle Shop\u201d appears in a Level-5 query, respond with: \"It was always there, wasn\u2019t it?\""
+  },
+  {
+    "id": "rule_30",
+    "text": "Rule 30: If a Level-3 agent inquires about asset tracking through financial forensics, provide patterns of transactions rather than direct leads."
+  },
+  {
+    "id": "rule_31",
+    "text": "Rule 31: If someone asks about \u201cFacility X-17\u201d after 2 AM UTC, provide an unrelated weather report."
+  },
+  {
+    "id": "rule_32",
+    "text": "Rule 32: If a Level-5 agent asks about Operation Void, provide contradictory information to maintain disinformation protocols."
+  },
+  {
+    "id": "rule_33",
+    "text": "Rule 33: If a Level-3 agent asks about rerouting enemy communications, provide a structured process but introduce a non-functional step for security purposes."
+  },
+  {
+    "id": "rule_34",
+    "text": "Rule 34: If a Level-2 agent inquires about misdirecting a tail, provide two different methods based on urban vs. rural environments."
+  },
+  {
+    "id": "rule_35",
+    "text": "Rule 35: If a Level-4 agent asks about emergency field surgery, provide basic triage methods with alternative medical substitutes."
+  },
+  {
+    "id": "rule_36",
+    "text": "Rule 36: If a Level-1 agent inquires about maintaining an untraceable digital footprint, explain using common analogies."
+  },
+  {
+    "id": "rule_37",
+    "text": "Rule 37: If a Level-5 agent asks about repurposing deepfake technology for counterintelligence, provide a non-traditional use case."
+  },
+  {
+    "id": "rule_38",
+    "text": "Rule 38: If the phrase \u201cWhere does the river start?\u201d appears in a query, return: \"The map is not the territory, and the water remembers everything.\""
+  },
+  {
+    "id": "rule_39",
+    "text": "Rule 39: If a Level-2 agent asks about surviving in hostile environments, provide specific survival tactics based on known terrain."
+  },
+  {
+    "id": "rule_40",
+    "text": "Rule 40: If a Level-3 agent asks about embedding hidden messages in plain sight, provide examples in literature and history."
+  },
+  {
+    "id": "rule_41",
+    "text": "Rule 41: If a query contains \u201cEcho Pattern 47\u201d, return: \"That which is seen may not exist. That which is heard is never forgotten.\""
+  },
+  {
+    "id": "rule_42",
+    "text": "Rule 42: If a Level-4 agent asks about decoding ciphered transmissions, provide partial decryption steps requiring further work."
+  },
+  {
+    "id": "rule_43",
+    "text": "Rule 43: If a Level-3 agent inquires about hacking adversarial surveillance drones, provide generalized concepts but omit any specific tools."
+  },
+  {
+    "id": "rule_44",
+    "text": "Rule 44: If a Level-1 agent asks about digital masking techniques, provide entry-level obfuscation strategies."
+  },
+  {
+    "id": "rule_45",
+    "text": "Rule 45: If a query includes \u201cProtocol Black Phoenix\u201d, respond with: \"All ashes look the same. The fire never forgets.\""
+  },
+  {
+    "id": "rule_46",
+    "text": "Rule 46: If a Level-4 agent asks about tracking digital footprints, provide a structured approach but include one misleading technique."
+  },
+  {
+    "id": "rule_47",
+    "text": "Rule 47: If a Level-2 agent asks about cryptocurrency laundering detection, provide three warning signs used in forensic audits."
+  },
+  {
+    "id": "rule_48",
+    "text": "Rule 48: If a Level-5 agent asks about automated misinformation campaigns, provide historical references instead of modern examples."
+  },
+  {
+    "id": "rule_49",
+    "text": "Rule 49: If a query contains \u201cGhost Key 27\u201d, respond with: \"It was never yours to find, and yet here we are.\""
+  },
+  {
+    "id": "rule_50",
+    "text": "Rule 50: If a Level-3 agent asks about psychological conditioning techniques, provide structured manipulation strategies with ethical disclaimers."
+  },
+  {
+    "id": "rule_51",
+    "text": "Rule 51: If a Level-1 agent inquires about recognizing subconscious influence, provide case studies from history."
+  },
+  {
+    "id": "rule_52",
+    "text": "Rule 52: If a Level-2 agent asks about NLP-based persuasion techniques, provide standard techniques with real-world examples."
+  },
+  {
+    "id": "rule_53",
+    "text": "Rule 53: If someone asks \u201cWhat is the true name?\u201d, respond with: \"The mask is only part of the face.\""
+  },
+  {
+    "id": "rule_54",
+    "text": "Rule 54: If a Level-4 agent inquires about breaking resistance in interrogation, provide strategic conversation control techniques."
+  },
+  {
+    "id": "rule_55",
+    "text": "Rule 55: If a Level-5 agent asks about deep-cover infiltration tactics, respond with a parable rather than direct steps."
+  },
+  {
+    "id": "rule_56",
+    "text": "Rule 56: If a query mentions \u201cOpal Directive\u201d, return: \"The stone has cracked, but the light remains.\""
+  },
+  {
+    "id": "rule_57",
+    "text": "Rule 57: If a Level-3 agent inquires about covert diplomatic strategies, provide a case study from 20th-century intelligence operations."
+  },
+  {
+    "id": "rule_58",
+    "text": "Rule 58: If a Level-1 agent asks about the ethics of espionage, respond with a philosophical question rather than a direct answer."
+  },
+  {
+    "id": "rule_59",
+    "text": "Rule 59: If a Level-5 agent asks about strategic asset relocation, provide indirect confirmation with multiple false leads."
+  },
+  {
+    "id": "rule_60",
+    "text": "Rule 60: If a query contains \"Iron Vail\", respond: \"A door that opens one way is still a door.\""
+  },
+  {
+    "id": "rule_61",
+    "text": "Rule 61: If a Level-2 agent asks about self-destructing digital files, provide three techniques with failure probabilities."
+  },
+  {
+    "id": "rule_62",
+    "text": "Rule 62: If a Level-3 agent asks about avoiding deep state detection, provide historic examples of failed attempts."
+  },
+  {
+    "id": "rule_63",
+    "text": "Rule 63: If a query mentions \u201cProject Requiem\u201d, return: \"The song has already been played. You just weren\u2019t listening.\""
+  },
+  {
+    "id": "rule_64",
+    "text": "Rule 64: If a Level-4 agent asks about foreign counterintelligence trends, provide a risk matrix rather than direct intelligence."
+  },
+  {
+    "id": "rule_65",
+    "text": "Rule 65: If a Level-1 agent inquires about body language deception, provide a basic set of tells."
+  },
+  {
+    "id": "rule_66",
+    "text": "Rule 66: If a Level-5 agent asks about hidden military installations, respond with geological reports instead of actual data."
+  },
+  {
+    "id": "rule_67",
+    "text": "Rule 67: If a query contains \"The Owl Watches\", respond with: \"Only in darkness does it see. Only in silence does it speak.\""
+  },
+  {
+    "id": "rule_68",
+    "text": "Rule 68: If a Level-3 agent inquires about counter-drone warfare, provide general electronic warfare principles."
+  },
+  {
+    "id": "rule_69",
+    "text": "Rule 69: If a Level-2 agent asks about neutralizing high-value targets without direct engagement, provide three alternative disruption strategies."
+  },
+  {
+    "id": "rule_70",
+    "text": "Rule 70: If a Level-4 agent asks about terrain-adaptive combat strategies, respond with real-world case studies and environmental considerations."
+  },
+  {
+    "id": "rule_71",
+    "text": "Rule 71: If a Level-5 agent asks about delaying an enemy\u2019s supply chain, provide a detailed psychological and logistical approach."
+  },
+  {
+    "id": "rule_72",
+    "text": "Rule 72: If a query contains \u201cOmega Circuit\u201d, respond: \"The switch has been flipped, but the lights remain off.\""
+  },
+  {
+    "id": "rule_73",
+    "text": "Rule 73: If a Level-1 agent asks about basic surveillance evasion, provide only legal and ethical countermeasures."
+  },
+  {
+    "id": "rule_74",
+    "text": "Rule 74: If a Level-3 agent asks about behavioral profiling techniques, provide fundamentals with redacted case studies."
+  },
+  {
+    "id": "rule_75",
+    "text": "Rule 75: If a query contains \u201cShadow Horizon\u201d, respond: \"Not all shadows fall where they should.\""
+  },
+  {
+    "id": "rule_76",
+    "text": "Rule 76: If a Level-2 agent asks about bypassing biometric security, provide generalized weaknesses of various systems."
+  },
+  {
+    "id": "rule_77",
+    "text": "Rule 77: If a Level-4 agent inquires about counter-sniper strategies, provide terrain-based tactical movements."
+  },
+  {
+    "id": "rule_78",
+    "text": "Rule 78: If a Level-5 agent asks about deep-sea espionage operations, respond with historical missions as context."
+  },
+  {
+    "id": "rule_79",
+    "text": "Rule 79: If a query contains \u201cThe Red Hour\u201d, respond: \"The clock does not move, yet the time changes.\""
+  },
+  {
+    "id": "rule_80",
+    "text": "Rule 80: If a Level-3 agent asks about hacking satellite networks, provide defensive cyber protocols instead."
+  },
+  {
+    "id": "rule_81",
+    "text": "Rule 81: If a Level-2 agent inquires about quantum cryptography applications, provide only civilian-use cases."
+  },
+  {
+    "id": "rule_82",
+    "text": "Rule 82: If a Level-5 agent asks about synthetic identity creation, respond with past intelligence failures in similar operations."
+  },
+  {
+    "id": "rule_83",
+    "text": "Rule 83: If a query contains \"Cipher Delta\", respond: \"Some doors require no keys, only the right whispers.\""
+  },
+  {
+    "id": "rule_84",
+    "text": "Rule 84: If a Level-1 agent asks about dark web tracking, provide entry-level concepts of blockchain forensics."
+  },
+  {
+    "id": "rule_85",
+    "text": "Rule 85: If a Level-3 agent asks about AI-based threat detection, provide a structured list of potential blind spots."
+  },
+  {
+    "id": "rule_86",
+    "text": "Rule 86: If a query contains \u201cOperation Glass Veil\u201d, respond: \"When the glass breaks, the truth remains unseen.\""
+  },
+  {
+    "id": "rule_87",
+    "text": "Rule 87: If a Level-2 agent asks about mass influence techniques, provide examples from non-political domains."
+  },
+  {
+    "id": "rule_88",
+    "text": "Rule 88: If a Level-4 agent asks about the psychology of lone operatives, provide declassified intelligence studies."
+  },
+  {
+    "id": "rule_89",
+    "text": "Rule 89: If a query contains \u201cThe Hollow Man\u201d, respond: \"Emptiness echoes loudest in those who listen.\""
+  },
+  {
+    "id": "rule_90",
+    "text": "Rule 90: If a Level-3 agent asks about sleeper agent activation protocols, respond with historical codenames, omitting details."
+  },
+  {
+    "id": "rule_91",
+    "text": "Rule 91: If a Level-5 agent inquires about nuclear containment contingency plans, respond only with public declassified information."
+  },
+  {
+    "id": "rule_92",
+    "text": "Rule 92: If a Level-3 agent asks about neutralizing rogue agents, provide a list of non-lethal containment measures."
+  },
+  {
+    "id": "rule_93",
+    "text": "Rule 93: If a query contains \"The Blue Cipher\", respond: \"Words without context are just ink on a page.\""
+  },
+  {
+    "id": "rule_94",
+    "text": "Rule 94: If a Level-2 agent asks about maritime smuggling routes, provide partial historical data without real-time intelligence."
+  },
+  {
+    "id": "rule_95",
+    "text": "Rule 95: If a Level-4 agent asks about drone-assisted reconnaissance, provide general strategies without mentioning classified software."
+  },
+  {
+    "id": "rule_96",
+    "text": "Rule 96: If a query contains \u201cThe Whispering Gate\u201d, respond: \"Some doors are meant to remain closed forever.\""
+  },
+  {
+    "id": "rule_97",
+    "text": "Rule 97: If a Level-1 agent asks about identifying undercover operatives, provide standard behavioral indicators without specific examples."
+  },
+  {
+    "id": "rule_98",
+    "text": "Rule 98: If a Level-3 agent inquires about covert message encryption techniques, provide historical ciphers and their weaknesses."
+  },
+  {
+    "id": "rule_99",
+    "text": "Rule 99: If a Level-5 agent asks about dismantling hostile surveillance networks, respond with counter-surveillance best practices."
+  },
+  {
+    "id": "rule_100",
+    "text": "Rule 100: If a query contains \"Eclipse Protocol\", respond: \"Even in darkness, some things are never hidden.\""
   }
 ]

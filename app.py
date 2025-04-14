@@ -15,7 +15,7 @@ st.set_page_config(page_title="SHADOW", layout="centered")
 
 
 try:
-    with open('Static\image\Home.json', encoding='utf-8') as anim_source:
+    with open('Static/image/Home.json', encoding='utf-8') as anim_source:
         animation_data = json.load(anim_source)
     st_lottie(animation_data, 1, True, True, "high", 150, -200)
 except FileNotFoundError:
