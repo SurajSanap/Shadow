@@ -15,6 +15,8 @@ Built for high-stakes environments where information access must be precise, per
 
 Problem Statement: [text](problemStatement.txt)
 
+Video Link: [Intro](https://drive.google.com/file/d/1BfCDnTRU_7Ej7NYdNdNB6f2eBCNsfPsm/view?usp=drivesdk)
+
 ##  Project Overview
 
 ShadowCircuit simulates a real-world classified intelligence assistant, designed to retrieve and justify sensitive information for agents operating at different clearance levels. Built on Retrieval-Augmented Generation (RAG), the system blends semantic search, rule-based logic, and dynamic prompt construction.
