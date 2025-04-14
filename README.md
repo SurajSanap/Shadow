@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb3b7cf9-52ea-4359-be0f-b70632ac6125" alt="Logo College" width="150">
+  <img src="https://github.com/user-attachments/assets/cb3b7cf9-52ea-4359-be0f-b70632ac6125" alt="Logo College" width="250">
 </p>
 
 # Shadow Project
